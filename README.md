@@ -1,5 +1,5 @@
 # grpc_blog_api
-A simple implementation grpc CRUD APIs for a blog MongoDB
+A simple implementation grpc CRUD APIs for a blog with MongoDB
 
 ## Setup
 
